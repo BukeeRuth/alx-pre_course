@@ -1,9 +1,2 @@
-#!/bin/bash
 echo "ALX"
-^C
-cat > school
-ls
-clear
-
-q
-:Q
+#!/bin/bash 
